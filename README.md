@@ -1,0 +1,1 @@
+Shows how to configure NServiceBus to use Outbox on SqlP and business data on NHibernate and share the same transaction 
